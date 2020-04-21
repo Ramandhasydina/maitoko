@@ -21,10 +21,7 @@
       <h3 style="font-family: Blacksword; font-size:2.2em;"><strong>Produk Batik</strong></h3>
     </div>
   </div>
-  
-
-
-  <!-- Laman Produk-->
+ 
   
   <div class="container" id="produk">
     <div class="tab-content">
@@ -109,9 +106,7 @@
     </div>
     </div>
     </div>
-    <!-- end of pria -->
-
-    <!-- wanita -->
+    
       <div id="wanita" class="tab-pane fade">
       <ul>
       <?php 
@@ -164,9 +159,7 @@
       <div class="clear"></div>
     </ul>
     </div>
-    <!-- end of wanita -->
-
-    <!-- couple -->
+ 
       <div id="couple" class="tab-pane fade">
       <ul>
         <?php 
@@ -219,9 +212,7 @@
         <div class="clear"></div>
     </ul>
     </div>
-    <!-- end of couple -->
-
-    <!-- anak-anak -->
+    
       <div id="anak" class="tab-pane fade">
       <ul>
         <?php 
@@ -274,8 +265,7 @@
       <div class="clear"></div>
     </ul>
     </div>
-    <!-- end of anak-anak -->
-    <!-- sarimbit -->
+ 
       <div id="sarimbit" class="tab-pane fade">
       <ul>
       <?php 
@@ -328,11 +318,10 @@
       <div class="clear"></div>
     </ul>
     </div>
-    <!-- end of sarimbit -->
+    
     </div>
     
   </div>
-  <!-- kontent end of produkumum -->
 </div>
 
 
@@ -340,8 +329,5 @@
 <?php include('component/footer.php'); ?>
 
 
-<script type="text/javascript" src="plugin/Javascript/jquery.min.js"></script>
-<script type="text/javascript" src="plugin/bootstrap/js/bootstrap.js"></script>
-<script type="text/javascript" src="asset/js/script.js"></script>
 </body>
 </html
