@@ -8,7 +8,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Toko Online Batik</title>
+  <title>Mai TOKO</title>
   <link rel="stylesheet" type="text/css" href="plugin/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="asset/css/main.css">
   <link rel="stylesheet" type="text/css" href="asset/css/keranjang.css">
@@ -116,8 +116,5 @@ if($belumAda==0){
 
 <?php include('component/footer.php'); ?>
 
-<script type="text/javascript" src="plugin/Javascript/jquery.min.js"></script>
-<script type="text/javascript" src="plugin/bootstrap/js/bootstrap.js"></script>
-<script type="text/javascript" src="asset/js/script.js"></script>
 </body>
 </html>
