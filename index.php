@@ -23,9 +23,6 @@
   </div>
   
 
-
-  <!-- Laman Produk-->
-  
   <div class="container" id="produk">
     <div class="tab-content">
       <!-- pria -->
@@ -109,9 +106,7 @@
     </div>
     </div>
     </div>
-    <!-- end of pria -->
 
-    <!-- wanita -->
       <div id="wanita" class="tab-pane fade">
       <ul>
       <?php 
@@ -164,9 +159,7 @@
       <div class="clear"></div>
     </ul>
     </div>
-    <!-- end of wanita -->
 
-    <!-- couple -->
       <div id="couple" class="tab-pane fade">
       <ul>
         <?php 
@@ -218,10 +211,7 @@
        ?>
         <div class="clear"></div>
     </ul>
-    </div>
-    <!-- end of couple -->
 
-    <!-- anak-anak -->
       <div id="anak" class="tab-pane fade">
       <ul>
         <?php 
@@ -274,8 +264,7 @@
       <div class="clear"></div>
     </ul>
     </div>
-    <!-- end of anak-anak -->
-    <!-- sarimbit -->
+
       <div id="sarimbit" class="tab-pane fade">
       <ul>
       <?php 
@@ -328,11 +317,11 @@
       <div class="clear"></div>
     </ul>
     </div>
-    <!-- end of sarimbit -->
+  
     </div>
     
   </div>
-  <!-- kontent end of produkumum -->
+
 </div>
 
 
